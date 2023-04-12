@@ -1,11 +1,11 @@
 from models.default import url
 import requests
-from models.exe import Q2
+from models.exe import q1,q2,q3
 
 
 def main():
     data = requests.get(url).json()
-    Q2(True,data=data)
+    q3(data=data)
     input
 
 if __name__== "__main__":
