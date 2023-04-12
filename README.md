@@ -1,6 +1,6 @@
 # Prog_Redes_2023.1
 ## Descrição 
- Repositorio criado para produzir atividade da diciplina de Programação Redes de Computadores
+ Repositorio criado para produzir atividades da diciplina de Programação Redes de Computadores.
 ## Estrutura de organização
 ## Como instalar dependencias
     use o Comando venv/bin/pip install -r requiremnts.txt
