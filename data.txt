@@ -1,0 +1,104 @@
+Curso Especialização em Educação Profissional e Tecnológica: 1 Alunos
+Curso Técnico Nível Médio em Desenvolvimento de Sistemas para Internet: 2 Alunos
+Curso Técnico de Nível Médio em Informática: 295 Alunos
+Curso Especialização em Licenciamento Ambiental em Petróleo e Gás On Shore: 10 Alunos
+Curso Piano Popular Intermediário: 5 Alunos
+Curso Formação Inicial e Continuada em OM - Eletricista de Manutenção: 7 Alunos
+Curso Especialização em Gestão Ambiental: 38 Alunos
+Curso Formação Inicial e Continuada em Operador de Petróleo I: 166 Alunos
+Curso Técnico de Nível Médio em Mecânica: 353 Alunos
+Curso Sotware BIM para Arquitetura (Módulo Básico): 24 Alunos
+Curso Biologia Teórica e Experimental: 15 Alunos
+Curso Formação Inicial e Continuada em Auxiliar a Administrativo: 1 Alunos
+Curso Técnico Integrado em Mineração: 7 Alunos
+Curso Software BIM para Instalações Elétricas e Hidrossanitárias(Módulo básico): 24 Alunos
+Curso Licenciatura em Espanhol: 110 Alunos
+Curso Formação Inicial e Continuada de Produção de Produtos Naturais e Fitoterápicos: 20 Alunos
+Curso Estrutura de Dados em C++ para Competições de Programação: 6 Alunos
+Curso Licenciatura Plena em Geografia: 6 Alunos
+Curso Tecnologia em Construção de Edifícios: 177 Alunos
+Curso Técnico de Nível Médio em Segurança do Trabalho: 315 Alunos
+Curso Tecnologia em Informática: 2 Alunos
+Curso Formação Inicial e Continuada em Inspetor Escolar: 1 Alunos
+Curso Musicalização por meio do Canto Coral: 60 Alunos
+Curso Piano Popular em Nível Intermediário: 13 Alunos
+Curso Ensino Médio: 45 Alunos
+Curso Técnico Integrado em Edificacoes: 15 Alunos
+Curso Percussão e Bateria: 3 Alunos
+Curso Licenciatura em Matemática: 101 Alunos
+Curso Técnico de Nível Médio em Petróleo e Gás: 121 Alunos
+Curso Técnico de Nível Médio em Informática para Internet: 147 Alunos
+Curso Atualização em Educação Ambiental e Geografia do Semi-árido: 27 Alunos
+Curso Tecnologia em Gestão Ambiental: 221 Alunos
+Curso Formação Inicial e Continuada em Eletricidade Predial: 3 Alunos
+Curso Iniciação às Regras Harmônicas, Arranjos e Improvisos: 28 Alunos
+Curso Técnico de Nivel Médio em Mineração: 2 Alunos
+Curso Técnico de Nivel Médio em Geologia e Mineração: 196 Alunos
+Curso Doutorado em Educação Profissional: 78 Alunos
+Curso Engenharia de Energia: 92 Alunos
+Curso Formação Inicial e Continuada em Auxiliar de Arquivo: 1 Alunos
+Curso Formação Inicial e Continuada em Dança e Cidadania da Pessoa Idosa: 438 Alunos
+Curso Mestrado em Educação Profissional: 170 Alunos
+Curso Tecnologia em Fabricação Mecânica: 15 Alunos
+Curso Técnico de Nível Médio em Manutenção de Computadores: 2 Alunos
+Curso Tecnologia em Redes de Computadores: 223 Alunos
+Curso Tecnologia em Meio Ambiente: 3 Alunos
+Curso Técnico em Operação da Produção do Petróleo: 19 Alunos
+Curso Curso de Formação Inicial e  Continuada (FIC) em Cuidador de Idoso: 30 Alunos
+Curso Tecnologia em Análise e Desenvolvimento de Sistemas: 250 Alunos
+Curso Técnico de Nível Médio em Eletrotécnica: 301 Alunos
+Curso Licenciatura em Física: 89 Alunos
+Curso Técnico de Nível Médio em Edificações: 613 Alunos
+Curso Tecnologia em Gestão Pública: 275 Alunos
+Curso Iniciação ao Violão: 32 Alunos
+Curso Técnico de Nível Médio em Saneamento Ambiental: 7 Alunos
+Curso Técnico de Nível Médio em Redes de Computadores: 1 Alunos
+Curso Software BIM para Instalações Elétricas e Hidrossanitárias (Módulo Básico): 4 Alunos
+Curso Técnico Integrado em Eletrotécnica: 19 Alunos
+Curso Curso de Formação Inicial e Continuada ou Qualificação Profissional em Aprendizagem Intercultural: 36 Alunos
+Curso Tecnologia em Produção da Construção Civil: 5 Alunos
+Curso Iniciação ao Piano Popular: 6 Alunos
+Curso Formação Inicial e Continuada em Motores de Combustão Interna: 2 Alunos
+Curso Técnico de Nível Médio em Geologia e Mineração: 327 Alunos
+Curso Software BIM para Arquitetura (Módulo Básico): 2 Alunos
+Curso Técnico de Nível Médio em Desenho de Projetos de Edificações: 1 Alunos
+Curso LINGUAGEM C++ PARA COMPETIÇÕES DE PROGRAMAÇÃO: 16 Alunos
+Curso Técnico de Nível Médio em Administração: 157 Alunos
+Curso Tecnologia em Comércio Exterior: 102 Alunos
+Curso Formação de Operador de Petróleo: 20 Alunos
+Curso Iniciação ao Piano Popular - Matutino: 5 Alunos
+Curso Formação Inicial e Continuada em Dança para Inclusão da Pessoa com Deficiência: 64 Alunos
+Curso Prática em Conjunto - Coral: 26 Alunos
+Curso Técnico de Nível Médio em Construção Civil: 373 Alunos
+Curso Formação Inicial e Continuada em Montador e Reparador de Computadores: 1 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática: 142 Alunos
+Curso Percussão e Bateria para Iniciantes: 7 Alunos
+Curso Licenciatura em Geografia: 110 Alunos
+Curso Técnico de Nível Médio em Controle Ambiental: 467 Alunos
+Curso Linguagens Musicais, Práticas Ritmicas e Solfejo: 25 Alunos
+Curso Técnico de Nível Médio em Tecnologia Ambiental: 377 Alunos
+Curso Formação Inicial e Continuada em Profissional de Suprimentos: 2 Alunos
+Curso Técnico Integrado em Mecânica: 10 Alunos
+Curso Técnico de Nível Médio em Geologia: 315 Alunos
+Curso Técnico de Nível Médio em Construção Predial: 13 Alunos
+Curso Técnico de Nivel Médio em Eletrotécnica: 40 Alunos
+Curso Técnico de Nível Médio em Eletromecânica: 296 Alunos
+Curso Técnico Integrado em Estradas: 4 Alunos
+Curso CURSO BÁSICO E INTERMEDIÁRIO  EM ARCGIS 10.5: 25 Alunos
+Curso Dança e Cidadania de Pessoa Idosa: 437 Alunos
+Curso Tecnologia em Desenvolvimento de Software: 21 Alunos
+Curso Formação Inicial e Continuada em Joalheria: 3 Alunos
+Curso Mestrado Profissional em Uso Sustentável de Recursos Naturais: 73 Alunos
+Curso Especialização em Educação Profissional Integrada à Educação Básica na Modalidade Educação de Jovens e Adultos: 128 Alunos
+Curso Tecnologia em Controle Ambiental: 2 Alunos
+Curso Atualização de Professores em Educação Inclusiva: 43 Alunos
+Curso Técnico de Nível Médio em Seguros: 10 Alunos
+Curso Mestrado Profissional em Ensino de Física: 23 Alunos
+Curso Técnico de Nível Médio em Estradas: 122 Alunos
+Curso Técnico de Nível Médio em Serviços Condominiais: 2 Alunos
+Curso Técnico em Manutenção na Indústria do Petróleo: 13 Alunos
+Curso Técnico Integrado em Saneamento: 3 Alunos
+Curso Técnico em Geologia: 5 Alunos
+Curso Técnico de Nível Médio em Mineração: 318 Alunos
+Curso Técnico Integrado em Geologia: 3 Alunos
+Curso Iniciação ao Piano Popular - Vespertino: 7 Alunos

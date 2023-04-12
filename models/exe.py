@@ -15,9 +15,9 @@ def q2(arg=True,data=0,write=False):
     # campus e a quantidade de alunos de cada curso
     sigla_campus = str()
     campi = q1('',data)
-    if write:file =open("data",'a+')
+    if write:file =open("data.txt",'w')
     if arg: sigla_campus = input('Informe a Sigla do Campus: ').upper()
-    if sigla_campus in campi:
+    if sigla_campus in campi or write:
         filtro = lambda c: c['campus'] == sigla_campus
         alunos = list(filter(filtro, data))
         cursos = set(map(lambda c: c['curso'], alunos))
@@ -25,9 +25,9 @@ def q2(arg=True,data=0,write=False):
             filtro = lambda c: c['curso'] == curso
             alunos_curso = list(filter(filtro, alunos))
             qt_alunos = len(alunos_curso)
-            varprint(f'Curso {curso}: {qt_alunos} Alunos')
-            if write:write(dataline)
-            if arg: print(varprint)
+            dataline = f'Curso {curso}: {qt_alunos} Alunos'
+            if write:file.write(dataline+"\n");print("escrevendo")
+            if arg: print(dataline)
     else:
         if arg: print('Não existe esse campus...')
    
@@ -38,7 +38,7 @@ def q3(data):
     # Exercício: Gerar arquivo com os dados da questão 02, 
     # cada curso em uma linha, separando o nome do curso da
     # quantidade de alunos por
-    cursos = q2(False,data,True)
+    cursos = q2(arg=False,data=data,write=True)
     input(">> finalizado \n>>")
 
 def Q4():
