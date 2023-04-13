@@ -11,6 +11,6 @@
 ## Documentação
  ### Modulos
   ### exe.q1
-   * Função **q1(arg,data)** 
+   * Função *q1(arg,data)*
    * argumento arg é para decidir se ele é uma função principal ou secundaria sendo utilizada como uma riquisição de dado ou alguma dependencia
    * argumento data é a o resultado da requisição para fazer o tratamento da na funcão
