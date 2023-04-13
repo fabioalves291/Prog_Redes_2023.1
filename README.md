@@ -2,11 +2,11 @@
 ## Descrição 
  Repositorio criado para produzir atividades da diciplina de Programação Redes de Computadores.
 ## Estrutura de organização
- A estrutura do app ficou em relacionado com as questões cada funcao do module exe é uma questão de atividade se necessario ver o resultado da questão q4 é so solicitar a função
+ A estrutura do app ficou em relacionado com as questões cada funcao do module __*exe*__ é uma questão de atividade se necessario ver o resultado da questão q4 é so solicitar a função
 ## Como instalar dependencias
-    use o Comando venv/bin/pip install -r requiremnts.txt
+    use o Comando __*venv/bin/pip install -r requiremnts.txt*__
     or
-    pip install -r requiremnts.txt
+    __*pip install -r requiremnts.txt*__
 
 ## Documentação
  ### Modulos

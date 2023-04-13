@@ -41,6 +41,8 @@ def q3(data):
     cursos = q2(arg=False,data=data,write=True)
     input(">> finalizado \n>>")
 
-def Q4():
-    #solicitar ano, sigla de ano, cargo, IdDaeleiçao
+def q4(data):
+    # solicitar ano, sigla de ano, cargo, IdDaeleiçao
+    for linha in data:
+        input(linha)
     pass
