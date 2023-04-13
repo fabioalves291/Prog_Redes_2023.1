@@ -45,4 +45,6 @@ def q4(data):
     # solicitar ano, sigla de ano, cargo, IdDaeleiçao
     for linha in data:
         input(linha)
+        for datalinha in data[linha]:
+            input(datalinha);print(type(datalinha))
     pass
