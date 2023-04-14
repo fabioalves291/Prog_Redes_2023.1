@@ -17,7 +17,7 @@ def q2(arg=True,data=0,write=False):
     # campus e a quantidade de alunos de cada curso
     sigla_campus = str()
     campi = q1('',data)
-    if write:file =open("data.txt",'w',encoding="utf-8")
+    if write:file =open(hrefData,'w',encoding="utf-8")
     if arg: sigla_campus = input('Informe a Sigla do Campus: ').upper()
     if sigla_campus in campi or write:
         filtro = lambda c: c['campus'] == sigla_campus

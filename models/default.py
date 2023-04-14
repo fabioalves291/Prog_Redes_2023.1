@@ -21,3 +21,5 @@ listadeUF=(
 "mg","rj","sp","pr","sc","rs","ms","mt"
 "go","df"
 )
+
+hrefData="data/data.txt"
