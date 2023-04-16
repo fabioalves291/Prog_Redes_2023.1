@@ -43,12 +43,20 @@ def q3(data):
 
 def usbQ4menu():
     
-    print(">> digite o Tipo da eleição\n>> -0 para federal\n -1 para estadual")
+    tipo = print(">> digite o Tipo da eleição\n>> -0 para federal\n -1 para estadual")
+    input(">> ")
+    print(">> digite o ano da eleição")
+    input(">> ")
+    print(">> digite o cargo\n")
+    input(">> ")
+    if tipo:
+        print(">> digite o UF")
     input(">> ")
 
     return
 def q4():
     # solicitar ano, sigla de ano, cargo, IdDaeleiçao
+    ano,cocodigo3digpasta,abrangencia,cargo=submenu()
     input(urlq4Def)
     input(urlq4(ano="2022",codigo3digpasta="544",abrangencia="br",cargo=listcodigosdecargo["CodigoPresidente"]))
     data = request(urlq4(ano="2022",codigo3digpasta="544",abrangencia="br",cargo=listcodigosdecargo["CodigoPresidente"]))
@@ -59,7 +67,6 @@ def q4():
             listadecandidatos = list()
             for linha in data:
                 for linhasub in linha:
-
                     break
             CandidatosData = data["cand"]
             for candidatos in CandidatosData:
