@@ -19,7 +19,8 @@ def q2(arg=True,data=0,write=False):
     campi = q1('',data)
     if write:file =open(hrefData,'w',encoding="utf-8")
     if arg: sigla_campus = input('Informe a Sigla do Campus: ').upper()
-    if sigla_campus in campi or write:
+    for sigla_campus in campi or write:
+        if not sigla_campus in campi:print("nao esta lsiado campos")
         filtro = lambda c: c['campus'] == sigla_campus
         alunos = list(filter(filtro, data))
         cursos = set(map(lambda c: c['curso'], alunos))
@@ -32,10 +33,7 @@ def q2(arg=True,data=0,write=False):
             if arg: print(dataline)
     else:
         if arg: print('Não existe esse campus...')
-   
-   
-        
-
+    if write:file.close()
 def q3(data):
     # Exercício: Gerar arquivo com os dados da questão 02, 
     # cada curso em uma linha, separando o nome do curso da
@@ -43,27 +41,25 @@ def q3(data):
     cursos = q2(arg=False,data=data,write=True)
     input(">> finalizado \n>>")
 
+def usbQ4menu():
+    
+    print(">> digite o Tipo da eleição\n>> -0 para federal\n -1 para estadual")
+    input(">> ")
+
+    return
 def q4():
     # solicitar ano, sigla de ano, cargo, IdDaeleiçao
-    # AnoInput = input(">> qual é o ano que deseja pesquisar dados da eleições?\n")
-    # TipoEleição = input(">> qual é tipo da eleição?\n")
-    # CargoEletivo = input(">> qual é o cargo?\n")
-
+    input(urlq4Def)
+    input(urlq4(ano="2022",codigo3digpasta="544",abrangencia="br",cargo=listcodigosdecargo["CodigoPresidente"]))
+    data = request(urlq4(ano="2022",codigo3digpasta="544",abrangencia="br",cargo=listcodigosdecargo["CodigoPresidente"]))
     #!! SUGERIR ESCOLHER ANO APENAS NA PROXIMA QUESTAO POIS PRECISA ACESSAR OUTRO BANCO PARA PEGAR O CODIGO DA ELEIÇÃO DO ANO
+    # esquecer comentario acima... dependo do ts para resolver essa funcionalidade ou criar um arquivo json suport
     while True:
         try:
-            #inputin = input(">> ")
             listadecandidatos = list()
-            cargo   =  "c"+listcodigosdecargo["CodigoPresidente"]
-            tipo1   =  "br-" + cargo + urlq4Final
-            #tipo2   =  "rn"+"-"+cargo+urlq4Final
-            url = urlq4+tipo1
-
-
-            data    = requests.get(url).json()
             for linha in data:
                 for linhasub in linha:
-                    #print(linha,data[linha])
+
                     break
             CandidatosData = data["cand"]
             for candidatos in CandidatosData:
@@ -76,3 +72,4 @@ def q4():
         finally:
             pass
     pass
+    

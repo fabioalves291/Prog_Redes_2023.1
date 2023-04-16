@@ -1,104 +1,451 @@
-Curso Especializa��o em Educa��o Profissional e Tecnol�gica: 1 Alunos
-Curso T�cnico N�vel M�dio em Desenvolvimento de Sistemas para Internet: 2 Alunos
-Curso T�cnico de N�vel M�dio em Inform�tica: 295 Alunos
-Curso Especializa��o em Licenciamento Ambiental em Petr�leo e G�s On Shore: 10 Alunos
-Curso Piano Popular Intermedi�rio: 5 Alunos
-Curso Forma��o Inicial e Continuada em OM - Eletricista de Manuten��o: 7 Alunos
-Curso Especializa��o em Gest�o Ambiental: 38 Alunos
-Curso Forma��o Inicial e Continuada em Operador de Petr�leo I: 166 Alunos
-Curso T�cnico de N�vel M�dio em Mec�nica: 353 Alunos
-Curso Sotware BIM para Arquitetura (M�dulo B�sico): 24 Alunos
-Curso Biologia Te�rica e Experimental: 15 Alunos
-Curso Forma��o Inicial e Continuada em Auxiliar a Administrativo: 1 Alunos
-Curso T�cnico Integrado em Minera��o: 7 Alunos
-Curso Software BIM para Instala��es El�tricas e Hidrossanit�rias(M�dulo b�sico): 24 Alunos
-Curso Licenciatura em Espanhol: 110 Alunos
-Curso Forma��o Inicial e Continuada de Produ��o de Produtos Naturais e Fitoter�picos: 20 Alunos
-Curso Estrutura de Dados em C++ para Competi��es de Programa��o: 6 Alunos
+Curso Inglês Básico: 2 Alunos
+Curso Geografia - Horas complementares: 26 Alunos
+Curso Física Aplicada ao Contexto das Novas Tecnologias 45h: 19 Alunos
+Curso Ensino de Física Através de situações-problema 60h: 20 Alunos
+Curso Técnico de Nível Médio em Administração: 198 Alunos
+Curso Técnico de Nível Médio em Informática: 296 Alunos
+Curso Tópicos em Biotecnologia Aplicada ao Ensino Médio: 21 Alunos
+Curso Geografia e Transformação do Espaço: 29 Alunos
+Curso Agricultor Familiar: 4 Alunos
+Curso Fonética e Fonologia da Língua Inglesa: Prática Introdutória: 4 Alunos
+Curso Espanhol Básico I: 1 Alunos
+Curso Curso de Formação Inicial e Continuada ou Qualificação Profissional em Agricultor Orgânico: 20 Alunos
+Curso Licenciatura em Matemática: 39 Alunos
+Curso Técnico de Nível Médio em Meio Ambiente: 325 Alunos
+Curso Técnico de Nível Médio em Edificações: 400 Alunos
+Curso Técnico de Nível Médio em Informática para Internet: 40 Alunos
+Curso Prática de Iniciação ao Basquete: 26 Alunos
+Curso Análise de Águas e Efluentes em Laboratório: 10 Alunos
+Curso Produção de textos escritos: revisitando as primeiras lições: 14 Alunos
+Curso Introdução à Informática: 31 Alunos
+Curso Técnico de Nível Médio em Comércio: 213 Alunos
+Curso Técnico de Nível Médio em Eletrotécnica: 2 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática: 233 Alunos
+Curso Técnico de Nível Médio em Eletrônica: 300 Alunos
+Curso Técnico de Nível Médio em Eletrotécnica, na Forma Integrada, Modalidade  EJA: 2 Alunos
+Curso Tecnologia em Marketing: 281 Alunos
+Curso Técnico de Nível Médio em Informática para Internet: 145 Alunos
+Curso Técnico de Nível Médio em Comércio, na Forma Integrada, Modalidade EJA: 141 Alunos
+Curso Técnico de Nível Médio em Informática, na Forma Integrada, Modalidade  EJA: 7 Alunos
+Curso Formação Inicial e Continuada em Artesã em Bordado à Mão, na modalidade presencial, no âmbito do Programa Mulheres Mil: 31 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática, na Forma Integrada, Modalidade  EJA: 24 Alunos
+Curso Técnico de Nível Médio em Informática: 43 Alunos
+Curso Licenciatura em Informática: 149 Alunos
+Curso Tecelagem Manual: 9 Alunos
+Curso Tecnologia em Design de Moda: 104 Alunos
+Curso INTRODUÇÃO AO SISTEMA OPERACIONAL LINUX: 16 Alunos
+Curso REVI - OBMEP: Revisão de Questões e Conteúdos: 57 Alunos
+Curso FIC - História do Brasil Revisitada: 81 Alunos
+Curso Técnico de Nível Médio em Têxtil: 147 Alunos
+Curso Costureiro: 31 Alunos
+Curso Técnico de Nível Médio em Vestuário: 243 Alunos
+Curso Pensamento Crítico Contemporâneo Feminista: 36 Alunos
+Curso Técnico de Nível Médio em Eletrotécnica, na Forma Integrada, Modalidade  EJA: 10 Alunos
+Curso Licenciatura em Física: 88 Alunos
+Curso Técnico de Nível Médio em Informática, na Forma Integrada, Modalidade  EJA: 14 Alunos
+Curso Introdução à Lógica Formal e à Lógica Matemática: 38 Alunos
+Curso FIC - Prática de Conjunto: 25 Alunos
+Curso FIC - Iniciação ao Violão: 25 Alunos
+Curso FIC: Inglês Básico - Nível Fundamental: 39 Alunos
+Curso Especialização em Educação do Campo: 33 Alunos
+Curso Técnico de Nível Médio em Eletrotécnica: 286 Alunos
+Curso Curso básico em  Programação de  aplicativos para  Android: 13 Alunos
+Curso Iniciação Teatral: Processos de Construção Cênica: 12 Alunos
+Curso LEITURA E PRODUÇÃO DE TEXTOS ARGUMENTATIVOS: 46 Alunos
+Curso Revendo Matemática: 20 Alunos
+Curso Controle de Versões: Abordagem Prática com GIT: 9 Alunos
+Curso FIC - Violão Popular: 13 Alunos
+Curso Elaboração e apresentação de artigos científicos de Design de Moda: 28 Alunos
+Curso The Song Club: Musicalização em Língua Inglesa: 22 Alunos
+Curso Programa de Iniciação Tecnológica e Cidadania: 4 Alunos
+Curso Matemática Básica - Módulo I: 52 Alunos
+Curso Física Básica: 19 Alunos
+Curso Técnico de Nível Médio em Informática: 329 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática, na Forma Integrada, Modalidade EJA: 17 Alunos
+Curso Pensamento Lógico: 6 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática: 91 Alunos
+Curso Técnico de Nível Médio em Meio Ambiente: 228 Alunos
+Curso Técnico de Nível Médio em Agroecologia: 171 Alunos
+Curso Licenciatura em Química: 122 Alunos
+Curso Técnico de Nível Médio em Informática: 178 Alunos
+Curso Formação Inicial e Continuada em Avicultor: 34 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática, Modalidade EJA: 14 Alunos
+Curso Agricultura e Pecuária de Base Ecológica II: 1 Alunos
+Curso Licenciatura em Informática: 135 Alunos
+Curso Tecnologia em Agroecologia: 133 Alunos
+Curso Técnico de Nível Médio em Agroecologia, Modalidade  EJA: 32 Alunos
+Curso Numeramento: 96 Alunos
+Curso Técnico de Nível Médio em Agroecologia, na Forma Integrada, Modalidade EJA: 125 Alunos
+Curso Técnico de Nível Médio em Guia de Turismo: 120 Alunos
+Curso Técnico de Nível Médio em Eventos: 112 Alunos
+Curso Formação Inicial e Continuada em Operador de Computadores: 13 Alunos
+Curso Formação Inicial e Continuada em Camareira: 100 Alunos
+Curso Técnico de Nível Médio em Serviços: 57 Alunos
+Curso Formação Inicial e Continuada em Camareira em Meios de Hospedagem: 54 Alunos
+Curso Técnico de Nível Médio em Multimídia: 287 Alunos
+Curso FIC- Français aux débutants: 30 Alunos
+Curso Tecnologia em Produção Cultural: 118 Alunos
+Curso Formação Inicial e Continuada em Assistente de Produção Cultural: 22 Alunos
+Curso Organização de Eventos Sociais e Comunitários Integrado ao Ensino Fundamental: 20 Alunos
+Curso Tecnologia em Gestão Desportiva e de Lazer: 101 Alunos
+Curso Especialização em Gestão de Programas e Projetos de Esporte e de Lazer na Escola: 78 Alunos
+Curso Auxiliar Administrativo: 52 Alunos
+Curso Recepcionista: 93 Alunos
+Curso Técnico de Nível Médio em Lazer: 128 Alunos
+Curso Formação Inicial e Continuada em Monitor de Recreação: 53 Alunos
+Curso Inglês Básico: 1 Alunos
+Curso Equalização e Sonorização Básica: 12 Alunos
+Curso Elaboração de Prática Individual de Yoga: 27 Alunos
+Curso Radiocomunicação: 23 Alunos
+Curso Violão Básico Popular: 7 Alunos
+Curso Saúde e Segurança do Trabalho: 19 Alunos
+Curso Especialização em Educação Ambiental e Geografia do Semi-Árido: 11 Alunos
+Curso Formação Inicial e Continuada em Beneficiamento e Gastronomia do Pescado: 99 Alunos
+Curso Especialização em Educação Profissional Integrada à Educação Básica na Modalidade Educação de Jovens e Adultos: 6 Alunos
+Curso Técnico de Nível Médio em Recursos Pesqueiros Integrado, na Forma Integrada, Modalidade EJA: 3 Alunos
+Curso Iniciação Teatral: 17 Alunos
+Curso Raciocínio Lógico: 3 Alunos
+Curso Matemática Básica: 30 Alunos
+Curso Planilha Eletrônica: 14 Alunos
+Curso Inglês para o ENEM: 8 Alunos
+Curso Técnico de Nível Médio em Química: 197 Alunos
+Curso Técnico de Nível Médio em Recursos Pesqueiros, na Forma Integrada, Modalidade  EJA: 20 Alunos
+Curso Técnico de Nível Médio em Recursos Pesqueiros: 326 Alunos
+Curso Salvatagem: 17 Alunos
+Curso Biossegurança: 19 Alunos
+Curso Aquaponia Básica: 15 Alunos
+Curso Licenciatura em Biologia: 193 Alunos
+Curso Formação Inicial e Continuada em Operador em Beneficiamento de Pescado: 99 Alunos
+Curso Conexão Jump: 14 Alunos
+Curso Especialização em Ensino de Ciências Naturais e Matemática: 21 Alunos
+Curso Técnico de Nível Médio em Informática: 162 Alunos
+Curso Técnico de Nível Médio em Química, na Forma Integrada, Modalidade  EJA: 7 Alunos
+Curso Operador em Processos Químicos Industriais: 1 Alunos
+Curso Técnico de Nivel Médio em Equipamentos Biomédicos: 203 Alunos
+Curso Técnico de Nível Médio em Programação de Jogos Digitais: 256 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática: 95 Alunos
+Curso Curso de Formação Inicial e Continuada em Operador de Computador: 30 Alunos
+Curso Especialização em Tecnologias Aplicadas à Educação: 23 Alunos
+Curso Introdução à Modelagem e Animação 3D: 15 Alunos
+Curso Técnico de Nível Médio em Equipamentos Biomédicos: 93 Alunos
+Curso Técnico de Nível Médio em Informática: 145 Alunos
+Curso Ensino de Teatro: 28 Alunos
+Curso Preparatório para o Enem –Módulo I: 234 Alunos
+Curso Formação Inicial e Continuada em Auxiliar de Cozinha: 13 Alunos
+Curso Reciclador: 29 Alunos
+Curso Dança (Composição coreográfica): 28 Alunos
+Curso Formação Inicial e Continuada em Montador e Reparador de Computadores: 18 Alunos
+Curso Tecnico de Nível Médio em Informática: 7 Alunos
+Curso Formação Inicial e Continuada em Auxiliar de laboratório químico: 31 Alunos
+Curso Desenho Criativo II (sketchbook): 8 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática, na Forma Integrada, Modalidade  EJA: 8 Alunos
+Curso Violão Erudito e Popular: 35 Alunos
+Curso Formação Inicial e Continuada em Instalador e Reparador de Redes de Computadores: 37 Alunos
+Curso Tecnologia em Sistemas para Internet: 106 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática: 153 Alunos
+Curso Formação Inicial e Continuada em Auxiliar em Aconselhador em Dependência Química: 25 Alunos
+Curso Formação Inicial e Continuada em Operador de Processamentos de Produtos Lácteos: 24 Alunos
+Curso Técnico de Nível Médio em Informática, na Forma Integrada, Modalidade  EJA: 3 Alunos
+Curso Formação Inicial e Continuada em Preparador de Derivados de Leite: 13 Alunos
+Curso Licenciatura em Química: 128 Alunos
+Curso Formação Inicial e Continuada em Auxiliar Administrativo: 30 Alunos
+Curso Formação Inicial e Continuada em Operador de Computadores: 19 Alunos
+Curso Formação Inicial e Continuada em Programador Web: 25 Alunos
+Curso Violão Popular: 24 Alunos
+Curso Técnico de Nível Médio em Alimentos: 363 Alunos
+Curso Flauta Doce: 15 Alunos
+Curso Tecnologia em Alimentos: 120 Alunos
+Curso Formação Inicial e Continuada em Auxiliar em Administração de Redes: 28 Alunos
+Curso Técnico de Nível Médio em Alimentos, na Forma Integrada, Modalidade  EJA: 22 Alunos
+Curso Formação Inicial e Continuada em Auxiliar em Web Designer: 28 Alunos
+Curso Especialização em Ciência e Tecnologia de Alimentos: 79 Alunos
+Curso Pró-IFRN - Escolas Públicas: 142 Alunos
+Curso Natação (Quatro estilos): 48 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática, na Forma Integrada, Modalidade EJA: 2 Alunos
+Curso Formação Inicial e Continuada em Processamento de Doces: 98 Alunos
+Curso Percussão: 14 Alunos
+Curso Formação Inicial e Continuada em Manipulador de Alimentos: 98 Alunos
+Curso Self-Learning: estratégias para o aprendizado de língua inglesa de forma autônoma: 20 Alunos
+Curso Cantor de Coral: 46 Alunos
+Curso Preparatório para o Enem Módulo II: 3 Alunos
+Curso Especialização em Ensino de Ciências Naturais e Matemática: 67 Alunos
+Curso Técnico de Nível Médio em Informática: 174 Alunos
+Curso Desenho Criativo I(sketchbook): 17 Alunos
+Curso Técnico de Nível Médio em Informática: 164 Alunos
+Curso Auxiliar Administrativo: 30 Alunos
+Curso Técnico de Nível Médio em Mineração: 243 Alunos
+Curso Técnico de Nível Médio em Mecatrônica: 414 Alunos
+Curso Formação Inicial e Continuada em Auxiliar de Secretaria Escolar: 2 Alunos
+Curso Licenciatura em Formação Pedagógica de Docentes para a Educação Profissional e Tecnológica: 15 Alunos
+Curso Curso Preparatório para a Olimpíada Brasileira de Robótica (OBR): 7 Alunos
+Curso Tecnologia em Sistemas para Internet: 78 Alunos
+Curso Curso de Desenho Realista: 30 Alunos
+Curso PREPARATÓRIO PARA OLIMPÍADA NACIONAL EM HISTÓRIA DO BRASIL: 35 Alunos
+Curso Curso de Formação Inicial e Continuada em Operador de Computador: 49 Alunos
+Curso Formação Inicial e Continuada em Inspetor Escolar: 1 Alunos
+Curso Técnico de Nível Médio em Redes de Computadores: 143 Alunos
+Curso Curso Preparatório para a Olimpíada de Robótica: 13 Alunos
+Curso Especialização em Ensino de Ciências Naturais e Matemática: 117 Alunos
+Curso Escola de Cinema e Criação: 12 Alunos
+Curso Técnico de Nível Médio em Informática: 308 Alunos
+Curso Formação Inicial e Continuada em Operador de Computadores: 9 Alunos
+Curso Técnico de Nivel Médio em Biocombustíveis: 8 Alunos
+Curso Técnico de Nível Médio em Biocombustíveis: 213 Alunos
+Curso Técnico de Nível Médio em Química: 53 Alunos
+Curso Conversação em Inglês Básico: 1 Alunos
+Curso Especialização em Educação Profissional Integrada à Educação Básica na Modalidade Educação de Jovens e Adultos: 1 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática: 37 Alunos
+Curso Técnico de Nível Médio em Agropecuária: 307 Alunos
+Curso Técnico de Nível Médio em Zootecnia, na Forma Integrada, Modalidade EJA: 9 Alunos
+Curso Técnico de Nível Médio em Zootecnia: 57 Alunos
+Curso Formação Inicial e Continuada em Processamento de Frutos: 28 Alunos
+Curso Especialização em Ensino de Ciências Naturais e Matemática: 76 Alunos
+Curso Técnico de Nível Médio em Informática: 147 Alunos
+Curso Técnico de Nivel Médio em Agricultura: 3 Alunos
+Curso FIC+ Manipulador de Alimentos: 30 Alunos
+Curso Licenciatura em Química: 100 Alunos
+Curso Técnico de Nível Médio em Zootecnia, na Forma Integrada, Modalidade  EJA: 11 Alunos
+Curso Formação Inicial e Continuada em Operador de Computadores: 118 Alunos
+Curso PROJETO  REDAÇÃO 1000: 148 Alunos
+Curso Tecnologia em Análise e Desenvolvimento de Sistemas: 82 Alunos
+Curso Técnico de Nível Médio em Química: 213 Alunos
+Curso Formação Inicial e Continuada em Um olhar sobre o patrimônio artístico e cultural: 1 Alunos
+Curso Técnico de Nível Médio em Infomática: 3 Alunos
+Curso Programa de Iniciação Tecnológica e Cidadania: 3 Alunos
+Curso Nivelamento em Pré-Cálculo: 39 Alunos
+Curso Tecnologia em Processos Químicos: 123 Alunos
+Curso MÚSICA E INTEGRAÇÃO: DA TEORIA À PRÁTICA: 86 Alunos
+Curso Técnico de Nível Médio em Administração: 367 Alunos
+Curso Formação Inicial e Continuada em Auxiliar de Pessoal: 30 Alunos
+Curso Técnico de Nível Médio em Informática: 168 Alunos
+Curso Formação Inicial e Continuada em Inglês Básico: 61 Alunos
+Curso Formação Inicial e Continuada em Auxiliar Administrativo: 151 Alunos
+Curso Formação Inicial e Continuada em Agente de Gestão de Resíduos Sólidos: 13 Alunos
+Curso PREPARADOR DE MOLHOS E TEMPEROS: 40 Alunos
+Curso Abelha Operária Empoderada: 18 Alunos
+Curso Tecnologia em Análise e Desenvolvimento de Sistemas: 66 Alunos
+Curso Técnico de Nível Médio em Alimentos: 255 Alunos
+Curso Formação Inicial e Continuada em Processamento de Alimentos: 1 Alunos
+Curso Formação Inicial e Continuada em Montador e Reparador de Computadores: 1 Alunos
+Curso Formação Inicial e Continuada em Recreador: 1 Alunos
+Curso Formação Inicial e Continuada em Auxiliar de Recursos humanos: 6 Alunos
+Curso Formação Inicial e Continuada em Costureiro: 29 Alunos
+Curso Especialização em Ensino de Ciências Naturais e Matemática: 32 Alunos
+Curso AVALIAÇÃO DA APRENDIZAGEM NO CONTEXTO ESCOLAR: 42 Alunos
+Curso Técnico de Nível Médio em Informática: 246 Alunos
+Curso Licenciatura em Química: 95 Alunos
+Curso Técnico de Nível Médio em Apicultura: 247 Alunos
+Curso Técnico de Nível Médio em Eventos: 151 Alunos
+Curso Licenciatura em Educação do Campo: 87 Alunos
+Curso Curso de Inglês básico para conversação: Módulo IV: 6 Alunos
+Curso Curso de Espanhol básico: Módulo I: 12 Alunos
+Curso Curso de Formação Inicial e Continuada em Operador de Computador: 33 Alunos
+Curso Lutas: 18 Alunos
+Curso Programa de Iniciação Tecnológica e Cidadania: 1 Alunos
+Curso Curso de Inglês básico para conversação: Módulo III: 4 Alunos
+Curso Desenvolvimento de Web e Mobile: 12 Alunos
+Curso Curso de Formação Inicial e Continuada para professores indígenas na Ação “Saberes Indígenas na Escola”: 27 Alunos
+Curso Tecnologia em Gestão do Turismo: 94 Alunos
+Curso Especialização Educação de Jovens e Adultos no Contexto da Diversidade: 70 Alunos
+Curso Curso de Inglês básico para conversação: Módulo I: 67 Alunos
+Curso Técnico de Nível Médio em Informática: 159 Alunos
+Curso Matemática Básica: 31 Alunos
+Curso Técnico de Nível Médio em Eletromecânica: 149 Alunos
+Curso FIC- Curso de Inglês básico para conversação: Módulo II: 26 Alunos
+Curso Técnico de Nível Médio em Mecânica: 97 Alunos
+Curso Técnico de Nível Médio em Guia de Turismo: 15 Alunos
+Curso Especialização em Literatura e Ensino: 192 Alunos
+Curso Especialização em Práticas Assertivas da Educação Profissional Integrada à Educação de Jovens e Adultos, com Ênfase em Gestão: 481 Alunos
+Curso Técnico de Nível Médio em Informática para Internet: 283 Alunos
+Curso Especialização em Ensino de Matemática para o Ensino Médio: 141 Alunos
+Curso Especialização em Educação Ambiental e Geografia do Semi-Árido: 165 Alunos
+Curso Técnico de Nível Médio em Infraestrutura Escolar: 3 Alunos
+Curso Licenciatura em Letras Espanhol: 119 Alunos
+Curso Especialização em Educação Profissional: 54 Alunos
+Curso Especialização em Ensino da Língua Portuguesa e Matemática em Uma Perspectiva Transdisciplinar: 143 Alunos
+Curso Especialização em Práticas Assertivas da Educação Profissional Integrada à Educação de Jovens e Adultos, com Ênfase em Didática: 926 Alunos
+Curso Formação em Educação a Distância EaD: 89 Alunos
+Curso Licenciatura em Letras - Espanhol: 5 Alunos
+Curso Técnico de Nível Médio em Secretaria Escolar: 53 Alunos
+Curso Curso Superior de Licenciatura em Formação Pedagógica para Graduados não Licenciados (em Rede): 111 Alunos
+Curso Técnico de Nível Médio em Segurança do Trabalho: 86 Alunos
+Curso Especialização em Tecnologias Educacionais e Educação a Distância: 54 Alunos
+Curso Técnico de Nível Médio em Guia de Turismo Regional: 3 Alunos
+Curso Tecnologia em Gestão Ambiental: 133 Alunos
+Curso Aperfeiçoamento para Professores dos Municípios do Rio Grande do Norte: Língua Portuguesa, Matemática e Cidadania: 78 Alunos
+Curso Especialização em Gestão Pública: 136 Alunos
+Curso Técnico de Nível Médio em Construção Civil: 438 Alunos
+Curso Formação Inicial e Continuada em Operador de Sonda de Produção: 29 Alunos
+Curso Técnico de Nível Médio em Edificações, na Forma Integrada, Modalidade EJA: 146 Alunos
+Curso Formação Inicial e Continuada em Operador de Sonda de Perfuração: 6 Alunos
+Curso Técnico em Informática Indústrial: 117 Alunos
+Curso Técnico de Nível Médio em Sistema de Informação: 9 Alunos
+Curso Formação Inicial e Continuada em Desenhista Mecânico: 2 Alunos
+Curso Formação Inicial e Continuada em Ajustador Mecânico: 1 Alunos
+Curso Fundamentos Básicos de Energia Solar Fotovoltaica e Energia Eólica: 20 Alunos
+Curso Especialização em Educação e Contemporaneidade: 47 Alunos
+Curso Nivelamento e Preparação para Olimpíada Brasileira de Biologia: 40 Alunos
+Curso Formação Inicial e Continuada em Instrumentista Montador: 1 Alunos
+Curso Técnico de Nível Médio em Operação e Manutenção da Produção de Petróleo e Gás Natural: 26 Alunos
+Curso Técnico de Nível Médio em Segurança do Trabalho: 74 Alunos
+Curso Técnico de Nível Médio em Petróleo e Gás: 134 Alunos
+Curso Formação Inicial e Continuada em Supervisor de Planejamento: 1 Alunos
+Curso Técnico de Nível Médio em Saneamento: 169 Alunos
+Curso Licenciatura em Matemática: 123 Alunos
+Curso Mestrado em Ensino: 217 Alunos
+Curso Formação Inicial e Continuada em Eletricista Força e Controle: 4 Alunos
+Curso Mestrado Profissional em Educação Profissional e Tecnológica em Rede Nacional: 95 Alunos
+Curso Técnico de Nível Médio em Eletrotécnica: 534 Alunos
+Curso Tecnologia em Gestão Ambiental: 125 Alunos
+Curso Técnico Subsequente em Eletrotécnica: 4 Alunos
+Curso Ensino Médio: 8 Alunos
+Curso Formação Inicial e Continuada em Práticas de Plataformista de Sonda de Perfuração: 36 Alunos
+Curso Técnico de Nível Médio em Desenvolvimento de Software: 68 Alunos
+Curso Técnico de Nível Médio em Edificações: 338 Alunos
+Curso Técnico de Nível Médio em Construção Predial: 184 Alunos
+Curso Técnico de Nível Médio em Informática: 350 Alunos
+Curso Técnico de Nível Médio em Eletromecânica: 401 Alunos
+Curso Técnico de Nível Médio em Mecânica: 501 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática, na Forma Integrada, Modalidade EJA: 113 Alunos
+Curso Reciclador: 30 Alunos
+Curso Licenciatura em Matemática: 97 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática: 110 Alunos
+Curso Licenciatura em Física: 106 Alunos
+Curso Técnico de Nível Médio em Informática, na Forma Integrada, Modalidade  EJA: 8 Alunos
+Curso Técnico de Nível Médio em Informática: 291 Alunos
+Curso Técnico de Nível Médio em Refrigeração e Climatização: 194 Alunos
+Curso Técnico de Nível Médio em Refrigeração e Climatização, na Forma Integrada, Modalidade  EJA: 12 Alunos
+Curso Técnico de Nível Médio em Mecânica: 170 Alunos
+Curso Técnico de Nível Médio em Seguros: 10 Alunos
+Curso Atualização em Educação Ambiental e Geografia do Semi-árido: 27 Alunos
+Curso Piano Popular em Nível Intermediário: 13 Alunos
+Curso Formação Inicial e Continuada de Produção de Produtos Naturais e Fitoterápicos: 20 Alunos
+Curso Especialização em Gestão Ambiental: 38 Alunos
+Curso Curso de Formação Inicial e Continuada ou Qualificação Profissional em Aprendizagem Intercultural: 36 Alunos
 Curso Licenciatura Plena em Geografia: 6 Alunos
-Curso Tecnologia em Constru��o de Edif�cios: 177 Alunos
-Curso T�cnico de N�vel M�dio em Seguran�a do Trabalho: 315 Alunos
-Curso Tecnologia em Inform�tica: 2 Alunos
-Curso Forma��o Inicial e Continuada em Inspetor Escolar: 1 Alunos
-Curso Musicaliza��o por meio do Canto Coral: 60 Alunos
-Curso Piano Popular em N�vel Intermedi�rio: 13 Alunos
-Curso Ensino M�dio: 45 Alunos
-Curso T�cnico Integrado em Edificacoes: 15 Alunos
-Curso Percuss�o e Bateria: 3 Alunos
-Curso Licenciatura em Matem�tica: 101 Alunos
-Curso T�cnico de N�vel M�dio em Petr�leo e G�s: 121 Alunos
-Curso T�cnico de N�vel M�dio em Inform�tica para Internet: 147 Alunos
-Curso Atualiza��o em Educa��o Ambiental e Geografia do Semi-�rido: 27 Alunos
-Curso Tecnologia em Gest�o Ambiental: 221 Alunos
-Curso Forma��o Inicial e Continuada em Eletricidade Predial: 3 Alunos
-Curso Inicia��o �s Regras Harm�nicas, Arranjos e Improvisos: 28 Alunos
-Curso T�cnico de Nivel M�dio em Minera��o: 2 Alunos
-Curso T�cnico de Nivel M�dio em Geologia e Minera��o: 196 Alunos
-Curso Doutorado em Educa��o Profissional: 78 Alunos
-Curso Engenharia de Energia: 92 Alunos
-Curso Forma��o Inicial e Continuada em Auxiliar de Arquivo: 1 Alunos
-Curso Forma��o Inicial e Continuada em Dan�a e Cidadania da Pessoa Idosa: 438 Alunos
-Curso Mestrado em Educa��o Profissional: 170 Alunos
-Curso Tecnologia em Fabrica��o Mec�nica: 15 Alunos
-Curso T�cnico de N�vel M�dio em Manuten��o de Computadores: 2 Alunos
+Curso Técnico de Nivel Médio em Mineração: 2 Alunos
+Curso Técnico de Nível Médio em Saneamento Ambiental: 7 Alunos
+Curso Técnico de Nível Médio em Manutenção de Computadores: 2 Alunos
+Curso Formação Inicial e Continuada em Motores de Combustão Interna: 2 Alunos
+Curso Estrutura de Dados em C++ para Competições de Programação: 6 Alunos
+Curso Técnico de Nível Médio em Mineração: 318 Alunos
+Curso Percussão e Bateria para Iniciantes: 7 Alunos
+Curso Ensino Médio: 45 Alunos
+Curso Técnico de Nível Médio em Desenho de Projetos de Edificações: 1 Alunos
+Curso Dança e Cidadania de Pessoa Idosa: 437 Alunos
+Curso Técnico de Nível Médio em Geologia e Mineração: 327 Alunos
+Curso Técnico de Nível Médio em Edificações: 613 Alunos
+Curso Software BIM para Instalações Elétricas e Hidrossanitárias(Módulo básico): 24 Alunos
+Curso Formação Inicial e Continuada em Joalheria: 3 Alunos
+Curso Piano Popular Intermediário: 5 Alunos
+Curso Técnico de Nível Médio em Serviços Condominiais: 2 Alunos
+Curso Tecnologia em Informática: 2 Alunos
+Curso Formação Inicial e Continuada em OM - Eletricista de Manutenção: 7 Alunos
+Curso Iniciação às Regras Harmônicas, Arranjos e Improvisos: 28 Alunos
+Curso Formação Inicial e Continuada em Montador e Reparador de Computadores: 1 Alunos
+Curso Técnico de Nível Médio em Informática para Internet: 147 Alunos
+Curso Técnico de Nível Médio em Geologia: 315 Alunos
+Curso Linguagens Musicais, Práticas Ritmicas e Solfejo: 25 Alunos
+Curso Técnico de Nível Médio em Manutenção e Suporte em Informática: 142 Alunos
+Curso Técnico de Nivel Médio em Eletrotécnica: 40 Alunos
+Curso Doutorado em Educação Profissional: 78 Alunos
+Curso Sotware BIM para Arquitetura (Módulo Básico): 24 Alunos
+Curso Tecnologia em Comércio Exterior: 102 Alunos
+Curso Prática em Conjunto - Coral: 26 Alunos
+Curso Biologia Teórica e Experimental: 15 Alunos
+Curso Formação Inicial e Continuada em Operador de Petróleo I: 166 Alunos
+Curso Técnico de Nivel Médio em Geologia e Mineração: 196 Alunos
+Curso Técnico Integrado em Eletrotécnica: 19 Alunos
+Curso Software BIM para Arquitetura (Módulo Básico): 2 Alunos
+Curso Formação Inicial e Continuada em Inspetor Escolar: 1 Alunos
+Curso Técnico de Nível Médio em Tecnologia Ambiental: 377 Alunos
+Curso Técnico de Nível Médio em Administração: 157 Alunos
+Curso Mestrado Profissional em Uso Sustentável de Recursos Naturais: 73 Alunos
+Curso Tecnologia em Gestão Ambiental: 221 Alunos
+Curso Especialização em Educação Profissional e Tecnológica: 1 Alunos
+Curso Técnico de Nível Médio em Controle Ambiental: 467 Alunos
+Curso Curso de Formação Inicial e  Continuada (FIC) em Cuidador de Idoso: 30 Alunos
+Curso Iniciação ao Piano Popular - Vespertino: 7 Alunos
+Curso Iniciação ao Piano Popular - Matutino: 5 Alunos
+Curso Formação Inicial e Continuada em Dança para Inclusão da Pessoa com Deficiência: 64 Alunos
+Curso Iniciação ao Piano Popular: 6 Alunos
+Curso Técnico Nível Médio em Desenvolvimento de Sistemas para Internet: 2 Alunos
+Curso LINGUAGEM C++ PARA COMPETIÇÕES DE PROGRAMAÇÃO: 16 Alunos
+Curso Técnico Integrado em Estradas: 4 Alunos
+Curso Técnico Integrado em Saneamento: 3 Alunos
+Curso Software BIM para Instalações Elétricas e Hidrossanitárias (Módulo Básico): 4 Alunos
+Curso Técnico em Operação da Produção do Petróleo: 19 Alunos
+Curso Especialização em Educação Profissional Integrada à Educação Básica na Modalidade Educação de Jovens e Adultos: 128 Alunos
+Curso Técnico Integrado em Mecânica: 10 Alunos
 Curso Tecnologia em Redes de Computadores: 223 Alunos
-Curso Tecnologia em Meio Ambiente: 3 Alunos
-Curso T�cnico em Opera��o da Produ��o do Petr�leo: 19 Alunos
-Curso Curso de Forma��o Inicial e  Continuada (FIC) em Cuidador de Idoso: 30 Alunos
-Curso Tecnologia em An�lise e Desenvolvimento de Sistemas: 250 Alunos
-Curso T�cnico de N�vel M�dio em Eletrot�cnica: 301 Alunos
-Curso Licenciatura em F�sica: 89 Alunos
-Curso T�cnico de N�vel M�dio em Edifica��es: 613 Alunos
-Curso Tecnologia em Gest�o P�blica: 275 Alunos
-Curso Inicia��o ao Viol�o: 32 Alunos
-Curso T�cnico de N�vel M�dio em Saneamento Ambiental: 7 Alunos
-Curso T�cnico de N�vel M�dio em Redes de Computadores: 1 Alunos
-Curso Software BIM para Instala��es El�tricas e Hidrossanit�rias (M�dulo B�sico): 4 Alunos
-Curso T�cnico Integrado em Eletrot�cnica: 19 Alunos
-Curso Curso de Forma��o Inicial e Continuada ou Qualifica��o Profissional em Aprendizagem Intercultural: 36 Alunos
-Curso Tecnologia em Produ��o da Constru��o Civil: 5 Alunos
-Curso Inicia��o ao Piano Popular: 6 Alunos
-Curso Forma��o Inicial e Continuada em Motores de Combust�o Interna: 2 Alunos
-Curso T�cnico de N�vel M�dio em Geologia e Minera��o: 327 Alunos
-Curso Software BIM para Arquitetura (M�dulo B�sico): 2 Alunos
-Curso T�cnico de N�vel M�dio em Desenho de Projetos de Edifica��es: 1 Alunos
-Curso LINGUAGEM C++ PARA COMPETI��ES DE PROGRAMA��O: 16 Alunos
-Curso T�cnico de N�vel M�dio em Administra��o: 157 Alunos
-Curso Tecnologia em Com�rcio Exterior: 102 Alunos
-Curso Forma��o de Operador de Petr�leo: 20 Alunos
-Curso Inicia��o ao Piano Popular - Matutino: 5 Alunos
-Curso Forma��o Inicial e Continuada em Dan�a para Inclus�o da Pessoa com Defici�ncia: 64 Alunos
-Curso Pr�tica em Conjunto - Coral: 26 Alunos
-Curso T�cnico de N�vel M�dio em Constru��o Civil: 373 Alunos
-Curso Forma��o Inicial e Continuada em Montador e Reparador de Computadores: 1 Alunos
-Curso T�cnico de N�vel M�dio em Manuten��o e Suporte em Inform�tica: 142 Alunos
-Curso Percuss�o e Bateria para Iniciantes: 7 Alunos
+Curso Técnico de Nível Médio em Segurança do Trabalho: 315 Alunos
+Curso Atualização de Professores em Educação Inclusiva: 43 Alunos
+Curso Percussão e Bateria: 3 Alunos
+Curso Técnico em Manutenção na Indústria do Petróleo: 13 Alunos
 Curso Licenciatura em Geografia: 110 Alunos
-Curso T�cnico de N�vel M�dio em Controle Ambiental: 467 Alunos
-Curso Linguagens Musicais, Pr�ticas Ritmicas e Solfejo: 25 Alunos
-Curso T�cnico de N�vel M�dio em Tecnologia Ambiental: 377 Alunos
-Curso Forma��o Inicial e Continuada em Profissional de Suprimentos: 2 Alunos
-Curso T�cnico Integrado em Mec�nica: 10 Alunos
-Curso T�cnico de N�vel M�dio em Geologia: 315 Alunos
-Curso T�cnico de N�vel M�dio em Constru��o Predial: 13 Alunos
-Curso T�cnico de Nivel M�dio em Eletrot�cnica: 40 Alunos
-Curso T�cnico de N�vel M�dio em Eletromec�nica: 296 Alunos
-Curso T�cnico Integrado em Estradas: 4 Alunos
-Curso CURSO B�SICO E INTERMEDI�RIO  EM ARCGIS 10.5: 25 Alunos
-Curso Dan�a e Cidadania de Pessoa Idosa: 437 Alunos
-Curso Tecnologia em Desenvolvimento de Software: 21 Alunos
-Curso Forma��o Inicial e Continuada em Joalheria: 3 Alunos
-Curso Mestrado Profissional em Uso Sustent�vel de Recursos Naturais: 73 Alunos
-Curso Especializa��o em Educa��o Profissional Integrada � Educa��o B�sica na Modalidade Educa��o de Jovens e Adultos: 128 Alunos
+Curso Licenciatura em Espanhol: 110 Alunos
+Curso Formação Inicial e Continuada em Auxiliar de Arquivo: 1 Alunos
+Curso Técnico de Nível Médio em Construção Predial: 13 Alunos
+Curso Técnico de Nível Médio em Estradas: 122 Alunos
+Curso Tecnologia em Gestão Pública: 275 Alunos
+Curso Tecnologia em Produção da Construção Civil: 5 Alunos
+Curso Formação de Operador de Petróleo: 20 Alunos
+Curso Formação Inicial e Continuada em Eletricidade Predial: 3 Alunos
 Curso Tecnologia em Controle Ambiental: 2 Alunos
-Curso Atualiza��o de Professores em Educa��o Inclusiva: 43 Alunos
-Curso T�cnico de N�vel M�dio em Seguros: 10 Alunos
-Curso Mestrado Profissional em Ensino de F�sica: 23 Alunos
-Curso T�cnico de N�vel M�dio em Estradas: 122 Alunos
-Curso T�cnico de N�vel M�dio em Servi�os Condominiais: 2 Alunos
-Curso T�cnico em Manuten��o na Ind�stria do Petr�leo: 13 Alunos
-Curso T�cnico Integrado em Saneamento: 3 Alunos
-Curso T�cnico em Geologia: 5 Alunos
-Curso T�cnico de N�vel M�dio em Minera��o: 318 Alunos
-Curso T�cnico Integrado em Geologia: 3 Alunos
-Curso Inicia��o ao Piano Popular - Vespertino: 7 Alunos
+Curso Técnico de Nível Médio em Mecânica: 353 Alunos
+Curso Técnico de Nível Médio em Construção Civil: 373 Alunos
+Curso Tecnologia em Desenvolvimento de Software: 21 Alunos
+Curso Técnico Integrado em Mineração: 7 Alunos
+Curso Tecnologia em Análise e Desenvolvimento de Sistemas: 250 Alunos
+Curso Formação Inicial e Continuada em Auxiliar a Administrativo: 1 Alunos
+Curso Especialização em Licenciamento Ambiental em Petróleo e Gás On Shore: 10 Alunos
+Curso Técnico Integrado em Edificacoes: 15 Alunos
+Curso Técnico em Geologia: 5 Alunos
+Curso Musicalização por meio do Canto Coral: 60 Alunos
+Curso Tecnologia em Fabricação Mecânica: 15 Alunos
+Curso Técnico de Nível Médio em Redes de Computadores: 1 Alunos
+Curso Técnico Integrado em Geologia: 3 Alunos
+Curso Tecnologia em Meio Ambiente: 3 Alunos
+Curso Licenciatura em Física: 89 Alunos
+Curso Técnico de Nível Médio em Petróleo e Gás: 121 Alunos
+Curso Licenciatura em Matemática: 101 Alunos
+Curso Formação Inicial e Continuada em Profissional de Suprimentos: 2 Alunos
+Curso Mestrado em Educação Profissional: 170 Alunos
+Curso Técnico de Nível Médio em Eletrotécnica: 301 Alunos
+Curso Engenharia de Energia: 92 Alunos
+Curso Mestrado Profissional em Ensino de Física: 23 Alunos
+Curso Iniciação ao Violão: 32 Alunos
+Curso CURSO BÁSICO E INTERMEDIÁRIO  EM ARCGIS 10.5: 25 Alunos
+Curso Tecnologia em Construção de Edifícios: 177 Alunos
+Curso Técnico de Nível Médio em Informática: 295 Alunos
+Curso Técnico de Nível Médio em Eletromecânica: 296 Alunos
+Curso Formação Inicial e Continuada em Dança e Cidadania da Pessoa Idosa: 438 Alunos
+Curso Formação Inicial e Continuada ou Qualificação Profissional em Vendedor: 30 Alunos
+Curso Especialização em Organização e Gestão Escolar para as modalidades de Educação do Campo e Educação de Jovens e Adultos: 8 Alunos
+Curso Licenciatura em Geografia: 59 Alunos
+Curso Técnico de Nível Médio em Cooperativismo: 38 Alunos
+Curso Especialização em Educação Ambiental e Geografia do Semi-Árido: 46 Alunos
+Curso Licenciatura em Física: 131 Alunos
+Curso Técnico de Nível Médio em Cooperativismo, na Forma Integrada, Modalidade  EJA: 9 Alunos
+Curso Especialização em Ensino de Ciências Naturais na Educação Básica: 35 Alunos
+Curso Especialização em Educação do Campo - Saberes da Terra: 60 Alunos
+Curso Técnico de Nível Médio em Administração: 246 Alunos
+Curso Técnico de Nível Médio em Eletrotécnica: 173 Alunos
+Curso Técnico de Nível Médio em Informática: 177 Alunos
+Curso Técnico de Nível Médio em Informática, na Forma Integrada, Modalidade  EJA: 2 Alunos
+Curso Tecnologia em Energias Renováveis: 96 Alunos
+Curso Formação Inicial e Continuada ou Qualificação Profissional em Vendedor: 30 Alunos
+Curso Curso de Formação Inicial e Continuada em Músico de Banda: 28 Alunos
+Curso Meu Amigo no IF: 159 Alunos
+Curso Agente de Aeroporto: 2 Alunos
+Curso Formação Inicial e Continuada em Eletricista Instalador Predial de Baixa Tensão: 15 Alunos
+Curso Eu e Meu Amigo do IF no Enem: 174 Alunos
+Curso História e Cultura Africana e Afrobrasileira através do Roleplaying Game: 10 Alunos
+Curso Tecnologia em Logística: 181 Alunos
+Curso Técnico de Nível Médio em Logística: 223 Alunos
+Curso Técnico de Nível Médio em Edificações: 289 Alunos
+Curso Técnico de Nível Médio em Informática: 143 Alunos
+Curso Tecnologia em Redes de Computadores: 72 Alunos
+Curso Técnico de Nível Médio em Redes de Computadores: 18 Alunos
+Curso Libras Intermediário: 19 Alunos
+Curso Inglês Básico: 24 Alunos
