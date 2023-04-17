@@ -11,6 +11,18 @@
 ## Documentação
  ### Modulos
   ### exe.q1
+   #### Questão 01 - com a biblioteca requests fazer requição ao host ifrn e com a resposta tratar os dados e apresentar lista de campus e quantidade de alunos
    * Função __*q1(arg,data)*__
-   * argumento arg é para decidir se ele é uma função principal ou secundaria sendo utilizada como uma riquisição de dado ou alguma dependencia
-   * argumento data é a o resultado da requisição para fazer o tratamento da na funcão
+   * Argumento *arg* é para decidir se ele é uma função principal ou secundaria sendo utilizada como uma riquisição de dado ou alguma dependência
+   * Argumento *data* é a o resultado da requisição para fazer o tratamento da na funcão
+  ### exe.q2
+   #### Questão 02 - com mesmo dados organizar os dados de alunos e relaciona ao curso
+   * Função __*q2(arg,data,write)*__
+   * Argumento *arg* é para decidir se ele é uma função principal ou secundaria sendo utilizada como uma riquisição de dado ou alguma dependência
+   * Argumento *data* é a o resultado da requisição para fazer o tratamento da na funcão
+   * Argumento *write* é para apenas escrever o arquivo e nao printar é utilizada quando for apenas um funcao surpote da função *q3*
+  ### exe.q3
+   #### Questão 03 - com os dados formatados na questão 02 deve registralos em um arquivo local
+   * Função __*q3(data)*__
+   * Argumento *data* é a o resultado da requisição para fazer o tratamento da na funcão 
+   
