@@ -43,25 +43,25 @@ def q3(data):
 
 def usbQ4menu():
     
-    tipo = print(">> digite o Tipo da eleição\n>> -0 para federal\n -1 para estadual")
+    tipo = print(">> digite o Tipo da eleição\n>> -0 para Federal\n -1 para Estadual")
     input(">> ")
     print(">> digite o ano da eleição")
     input(">> ")
     print(">> digite o cargo\n")
     input(">> ")
-    if tipo:
+    if tipo ==  "1" :
         print(">> digite o UF")
-    input(">> ")
+        input(">> ")
 
     return
 def q4():
     # solicitar ano, sigla de ano, cargo, IdDaeleiçao
-    ano,cocodigo3digpasta,abrangencia,cargo=submenu()
+    # ano,cocodigo3digpasta,abrangencia,cargo=submenu()
     input(urlq4Def)
     input(urlq4(ano="2022",codigo3digpasta="544",abrangencia="br",cargo=listcodigosdecargo["CodigoPresidente"]))
     data = request(urlq4(ano="2022",codigo3digpasta="544",abrangencia="br",cargo=listcodigosdecargo["CodigoPresidente"]))
     #!! SUGERIR ESCOLHER ANO APENAS NA PROXIMA QUESTAO POIS PRECISA ACESSAR OUTRO BANCO PARA PEGAR O CODIGO DA ELEIÇÃO DO ANO
-    # esquecer comentario acima... dependo do ts para resolver essa funcionalidade ou criar um arquivo json suport
+    # esquecer comentario acima... depende do ts para resolver essa funcionalidade ou criar um arquivo json suport
     while True:
         try:
             listadecandidatos = list()
@@ -71,7 +71,7 @@ def q4():
             CandidatosData = data["cand"]
             for candidatos in CandidatosData:
                 candidatos["n"]
-                listadecandidatos.append({candidatos["n"]+"_candidado":{"nome":candidatos["nm"],"partido":candidatos["cc"],"votos":candidatos["vap"]}})
+                listadecandidatos.append({candidatos["n"]+"_candidado":{"nome":candidatos["nm"],"partido":candidatos["cc"],"votos":candidatos["vap"],"percentual":[candidatos]["pvap"]}})
             for dados in listadecandidatos:
                 print(dados)
             return listadecandidatos
