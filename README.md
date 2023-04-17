@@ -11,7 +11,7 @@
 ## Documentação
  ### Modulos
   ### exe.q1
-   #### Questão 01 - com a biblioteca requests fazer requição ao host ifrn e com a resposta tratar os dados e apresentar lista de campus e quantidade de alunos
+   #### Questão 01 - com a biblioteca requests fazer requisição ao host ifrn e com a resposta tratar os dados e apresentar lista de campus e quantidade de alunos
    * Função __*q1(arg,data)*__
    * Argumento *arg* é para decidir se ele é uma função principal ou secundaria sendo utilizada como uma riquisição de dado ou alguma dependência
    * Argumento *data* é a o resultado da requisição para fazer o tratamento da na funcão
@@ -25,4 +25,6 @@
    #### Questão 03 - com os dados formatados na questão 02 deve registralos em um arquivo local
    * Função __*q3(data)*__
    * Argumento *data* é a o resultado da requisição para fazer o tratamento da na funcão 
-   
+  ### exe.q4
+   #### Questão 04 - com a biblioteca requests fazer uma requisição ao banco do TJ, recebendo os dados tratalos e capturando os seguintes dados nome_candidato, nome_partido, quantidade_votos, percentual_votos e organizar em um json
+   * Função __*q4()*__ retorna o json com os dados necessarios para a questão
