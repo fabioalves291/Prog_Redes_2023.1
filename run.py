@@ -4,6 +4,7 @@ from models.exe import q1,q2,q3,q4
 
 
 def main():
+    #data=request("https://resultados.tse.jus.br/oficial/comum/config/ele-c.json")
     alternativa = menu()
     if 1 or 2 or 3:
         data = request(url1a3)

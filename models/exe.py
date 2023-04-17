@@ -41,26 +41,41 @@ def q3(data):
     cursos = q2(arg=False,data=data,write=True)
     input(">> finalizado \n>>")
 
-def usbQ4menu():
-    
-    tipo = print(">> digite o Tipo da eleição\n>> -0 para Federal\n -1 para Estadual")
-    input(">> ")
-    print(">> digite o ano da eleição")
-    input(">> ")
-    print(">> digite o cargo\n")
-    input(">> ")
-    if tipo ==  "1" :
-        print(">> digite o UF")
-        input(">> ")
+def CasoSuportIdentifcar(abrangencia,turno):
+    if abrangencia =="br" and turno == "1":
+        return CodigodeEleição["PrimeiroTurnoFederal"]
+    elif abrangencia =="br" and turno == "2":
+        return CodigodeEleição["SegundoTurnoFederal"]
+    elif not abrangencia == "br" and turno == "1":
+        return CodigodeEleição["PrimeiroTurnoEstadual"]
+    elif not abrangencia == "br" and turno == "2":
+        return CodigodeEleição["SegundoTurnoEstadual"]
 
-    return
+def PrintDictSubQ4(dictdata):
+    for chaves in dictdata:
+        print(chaves,(20 -len(chaves))*" ",dictdata[chaves])
+
+def subQ4menu():
+    abrangencia = input(">> digite o Tipo da eleição\n 1 para Federal\n 2 para Estadual\n>> ")
+    if abrangencia == "2":
+        abrangencia = input(">>digite a UF desejada\n>> ")
+    else:abrangencia = "br"
+    turno = input(">> digite o Turno \n 1 para primeiro\n 2 para segundo\n>> ")
+    codigo3digpasta = CasoSuportIdentifcar(abrangencia,turno)
+    ano = input(">> digite o ano da eleição\n>> ")
+    map(PrintDictSubQ4(listcodigosdecargo),listcodigosdecargo)
+    cargo = input(">> digite o cadigo do cargo\n>> ")
+    return ano,codigo3digpasta,abrangencia,cargo
+
 def q4():
     # solicitar ano, sigla de ano, cargo, IdDaeleiçao
-    # ano,cocodigo3digpasta,abrangencia,cargo=submenu()
-    input(urlq4Def)
-    input(urlq4(ano="2022",codigo3digpasta="544",abrangencia="br",cargo=listcodigosdecargo["CodigoPresidente"]))
-    data = request(urlq4(ano="2022",codigo3digpasta="544",abrangencia="br",cargo=listcodigosdecargo["CodigoPresidente"]))
-    #!! SUGERIR ESCOLHER ANO APENAS NA PROXIMA QUESTAO POIS PRECISA ACESSAR OUTRO BANCO PARA PEGAR O CODIGO DA ELEIÇÃO DO ANO
+    ano,codigo3digpasta,abrangencia,cargo =  subQ4menu()
+    #codigo3digpasta =input("digite o codigo da eleição refente ao ano de eleição e turno...")
+    print(ano,codigo3digpasta,abrangencia,cargo)
+    input(urlq4(ano,codigo3digpasta,abrangencia,cargo))
+    #input(urlq4Def)
+    #input(urlq4(ano,codigo3digpasta,abrangencia,cargo))
+    data = request(urlq4(ano,codigo3digpasta,abrangencia,cargo))
     # esquecer comentario acima... depende do ts para resolver essa funcionalidade ou criar um arquivo json suport
     while True:
         try:
@@ -71,7 +86,7 @@ def q4():
             CandidatosData = data["cand"]
             for candidatos in CandidatosData:
                 candidatos["n"]
-                listadecandidatos.append({candidatos["n"]+"_candidado":{"nome":candidatos["nm"],"partido":candidatos["cc"],"votos":candidatos["vap"],"percentual":[candidatos]["pvap"]}})
+                listadecandidatos.append({candidatos["n"]+"_candidado":{"nome":candidatos["nm"],"partido":candidatos["cc"],"votos":candidatos["vap"],"percentual":candidatos["pvap"]}})
             for dados in listadecandidatos:
                 print(dados)
             return listadecandidatos
