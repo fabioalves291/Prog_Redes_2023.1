@@ -54,6 +54,9 @@ def CasoSuportIdentifcar(abrangencia,turno):
 def PrintDictSubQ4(dictdata):
     for chaves in dictdata:
         print(chaves,(20 -len(chaves))*" ",dictdata[chaves])
+def auxiliardeSubQ4Menuserchdata():
+    data = request(urlConfig)
+    print(data)
 
 def subQ4menu():
     abrangencia = input(">> digite o Tipo da eleição\n 1 para Federal\n 2 para Estadual\n>> ")
