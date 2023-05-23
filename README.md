@@ -33,6 +33,6 @@
    * Usando biblioteca SOCKET
    * criar uma função de tratamento da URL: Dominio, endereço do arquivo, nome do arquivo, porta pegando refrencia o nomenoinicio da url http,http.
   ### exe.q6
-   #### Questão 06 - Criar programa para verificar as portas de uma URL
+   #### Questão 06 - Criar programa para verificar as portas de um servidor apartir de uma URL
    * Usando biblioteca SOCKET
   
