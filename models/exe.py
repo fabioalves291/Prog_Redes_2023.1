@@ -1,4 +1,5 @@
 import requests
+import socket
 from models.default import *
 
 def q1(arg=True, data=0):
@@ -98,7 +99,11 @@ def q4():
             pass
     pass
     
-    def q5():
-        pass
-    def q6():
-        pass
+def q5(url="https://th.bing.com/th?id=ORMS.d45e5ed2e57bb3d33d5e9ddb55490cec&pid=Wdp&w=600&h=500&qlt=90&c=1&rs=1"): 
+    print(url[:8])
+    if url[:6] == "https":
+        urlurl.find("https://")
+        
+    pass
+def q6():
+    pass

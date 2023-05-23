@@ -1,6 +1,6 @@
 import requests
 from models.default import url1a3,urlq4,urlCq4,menu,request
-from models.exe import q1,q2,q3,q4
+from models.exe import q1,q2,q3,q4,q5,q6
 
 
 def main():
@@ -18,9 +18,10 @@ def main():
         case 4:
             q4()
         case 5:
-            pass
+            q5()
         case 6:
-            pass
+            q6()
+            
 
 
 if __name__== "__main__":

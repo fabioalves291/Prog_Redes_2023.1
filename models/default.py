@@ -6,11 +6,13 @@ def menu():
     print(50*"#")
     print("Escolha a Questão")
     print("""
-1 - para Q1-Listar campus da Ifrn
-2 - para Q2-Listar campus e alunos
+1 - para Q1-Listar campus do IFRN
+2 - para Q2-Listar campus e alunos do IFRN
 3 - para Q3-Escrever o resultado da Q2
 4 - para Q4-Tratar dados e apresentar das eleiçoes
-5 - """)
+5 - para Q5-
+6 - para Q6-
+""")
     print(50*"#")
     alternativa =   int(input(">> "))
     return alternativa
@@ -20,9 +22,10 @@ def menu():
 url1a3      = "https://dados.ifrn.edu.br/dataset/d5adda48-f65b-4ef8-9996-1ee2c445e7c0/resource/00efe66e-3615-4d87-8706-f68d52d801d7/download/dados_extraidos_recursos_alunos-da-instituicao.json"
 urlCq4      = "https://resultados.tse.jus.br/oficial/ele2022/544/config/ele-c.json"
 urlq4Def    = "https://resultados.tse.jus.br/oficial/ele2022/544/dados-simplificados/br/br-c0001-e000544-r.json"
-urlConfig   =   r equest("https://resultados.tse.jus.br/oficial/comum/config/ele-c.json")
+urlConfig   =  "https://resultados.tse.jus.br/oficial/comum/config/ele-c.json"
 
     #documentação https://www.tse.jus.br/eleicoes/eleicoes-2022/interessados-na-divulgacao-de-resultados-2022
+#-- q4
 CodigodeEleição     = {
 "PrimeiroTurnoFederal"  :   "544",
 "PrimeiroTurnoEstadual" :   "546",
@@ -54,3 +57,5 @@ def request(url):
 def urlq4(ano="2022",codigo3digpasta="544",abrangencia="br",cargo=listcodigosdecargo["CodigoPresidente"]):
     urlq4 = rf'https://resultados.tse.jus.br/oficial/ele{ano}/{codigo3digpasta}/dados-simplificados/br/{abrangencia}-c{cargo}-e000{codigo3digpasta}-r.json'
     return urlq4
+
+#-- q5
