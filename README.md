@@ -28,3 +28,11 @@
   ### exe.q4
    #### Questão 04 - com a biblioteca requests fazer uma requisição ao banco do TJ, recebendo os dados tratalos e capturando os seguintes dados nome_candidato, nome_partido, quantidade_votos, percentual_votos e organizar em um json
    * Função __*q4()*__ retorna o json com os dados necessarios para a questão
+  ### exe.q5
+   #### Questão 05 - Criar um aplicação para baixar foto com endereço de URL
+   * Usando biblioteca SOCKET
+   * criar uma função de tratamento da URL: Dominio, endereço do arquivo, nome do arquivo, porta pegando refrencia o nomenoinicio da url http,http.
+  ### exe.q6
+   #### Questão 06 - Criar programa para verificar as portas de uma URL
+   * Usando biblioteca SOCKET
+  
