@@ -9,7 +9,8 @@ def menu():
 1 - para Q1-Listar campus da Ifrn
 2 - para Q2-Listar campus e alunos
 3 - para Q3-Escrever o resultado da Q2
-4 - para Q4-Tratar dados e apresentar das eleiçoes""")
+4 - para Q4-Tratar dados e apresentar das eleiçoes
+5 - """)
     print(50*"#")
     alternativa =   int(input(">> "))
     return alternativa

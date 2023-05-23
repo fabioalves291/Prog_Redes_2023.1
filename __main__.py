@@ -17,6 +17,10 @@ def main():
             q3(data)
         case 4:
             q4()
+        case 5:
+            pass
+        case 6:
+            pass
 
 
 if __name__== "__main__":

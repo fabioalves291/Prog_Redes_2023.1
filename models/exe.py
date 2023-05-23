@@ -98,3 +98,7 @@ def q4():
             pass
     pass
     
+    def q5():
+        pass
+    def q6():
+        pass
