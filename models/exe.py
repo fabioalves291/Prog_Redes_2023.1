@@ -99,11 +99,22 @@ def q4():
             pass
     pass
     
-def q5(url="https://th.bing.com/th?id=ORMS.d45e5ed2e57bb3d33d5e9ddb55490cec&pid=Wdp&w=600&h=500&qlt=90&c=1&rs=1"): 
-    print(url[:8])
-    if url[:6] == "https":
-        urlurl.find("https://")
-        
-    pass
+def q5(url="https://images.shiksha.com/mediadata/images/1606913285phphjZJYb.png"): 
+    url_heard = url[:url.find("://")]
+    url_resto = url[url.find("://")+3:]
+    url_auxiliar_host= len(url_heard) + 3
+    url_host  = url[url_auxiliar_host : url_auxiliar_host + url_resto.find("/")]
+    url_src_arquivo = url[url_auxiliar_host + len(url_host) + 1: ]
+    name_arquivo_tipo = url_src_arquivo[url_src_arquivo.find(".",-len(url_src_arquivo)):]
+   
+    cont = 0
+    for letra in url_src_arquivo:
+        cont += 1
+        if letra == '/':
+            contultimabarra = cont
+    name_arquivo = url_src_arquivo[contultimabarra:url_src_arquivo.find(".",-len(url_src_arquivo))]
+    print(url_heard,url_host, url_src_arquivo,name_arquivo,name_arquivo_tipo)
+    if url[:url.find("://")] == "https":
+        pass
 def q6():
     pass
