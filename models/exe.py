@@ -99,7 +99,7 @@ def q4():
             pass
     pass
     
-def q5(url="https://images.shiksha.com/mediadata/images/1606913285phphjZJYb.png"): 
+def q5(url="https://images.shiksha.com/mediadata/images/1606913285phphjZJYb.png",printf=True): 
     url_heard = url[:url.find("://")]
     url_resto = url[url.find("://")+3:]
     url_auxiliar_host= len(url_heard) + 3
@@ -113,8 +113,16 @@ def q5(url="https://images.shiksha.com/mediadata/images/1606913285phphjZJYb.png"
         if letra == '/':
             contultimabarra = cont
     name_arquivo = url_src_arquivo[contultimabarra:url_src_arquivo.find(".",-len(url_src_arquivo))]
-    print(url_heard,url_host, url_src_arquivo,name_arquivo,name_arquivo_tipo)
     if url[:url.find("://")] == "https":
         pass
+    espaço = 15
+    if printf:print(
+    f"""
+    head{(espaço-len("head"))*' '}{url_heard}
+    host{(espaço-len("host"))*' '}{url_host}
+    endereçoaqv{(espaço-len("endereçoaqv"))*' '}{url_src_arquivo}
+    nomearq{(espaço-len("nomearq"))*' '}{name_arquivo}
+    tipodearq{(espaço-len("tipodearq"))*' '}{name_arquivo_tipo}""")
 def q6():
+
     pass
