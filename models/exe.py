@@ -1,6 +1,7 @@
 import requests
 import socket
 from models.default import *
+import socket, sys
 
 def q1(arg=True, data=0):
     # Questão 01: Listar os campi e a sua 
@@ -123,6 +124,21 @@ def q5(url="https://images.shiksha.com/mediadata/images/1606913285phphjZJYb.png"
     endereçoaqv{(espaço-len("endereçoaqv"))*' '}{url_src_arquivo}
     nomearq{(espaço-len("nomearq"))*' '}{name_arquivo}
     tipodearq{(espaço-len("tipodearq"))*' '}{name_arquivo_tipo}""")
+    
 def q6():
-
-    pass
+    host = input('\nInforme o nome do HOST ou URL do site: ')
+    for port in (22,122,80,8080)
+        
+        server_conn = (host, port)
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.settimeout(3)
+        try:
+           sock.connect(server_conn)
+        except socket.gaierror:
+           print('\nErro no HOST...')
+        except:
+           print(sys.exc_info())
+        else:
+           print('\nConexão OK...')
+           sock.close()
+   
