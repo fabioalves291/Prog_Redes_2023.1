@@ -101,21 +101,21 @@ def q4():
     pass
     
 def q5(url="https://images.shiksha.com/mediadata/images/1606913285phphjZJYb.png",printf=True): 
-    url_heard = url[:url.find("://")]
-    url_resto = url[url.find("://")+3:]
+    url_heard   = url[:url.find("://")]
+    url_resto   = url[url.find("://")+3:]
     url_auxiliar_host= len(url_heard) + 3
-    url_host  = url[url_auxiliar_host : url_auxiliar_host + url_resto.find("/")]
+    url_host    = url[url_auxiliar_host : url_auxiliar_host + url_resto.find("/")]
     url_src_arquivo = url[url_auxiliar_host + len(url_host) + 1: ]
     name_arquivo_tipo = url_src_arquivo[url_src_arquivo.find(".",-len(url_src_arquivo)):]
    
-    cont = 0
+    cont        = 0
     for letra in url_src_arquivo:
-        cont += 1
+        cont    += 1
         if letra == '/':
             contultimabarra = cont
     name_arquivo = url_src_arquivo[contultimabarra:url_src_arquivo.find(".",-len(url_src_arquivo))]
     if url[:url.find("://")] == "https":
-        pass
+        host_port = 8080
     espaço = 15
     if printf:print(
     f"""
@@ -123,12 +123,43 @@ def q5(url="https://images.shiksha.com/mediadata/images/1606913285phphjZJYb.png"
     host{(espaço-len("host"))*' '}{url_host}
     endereçoaqv{(espaço-len("endereçoaqv"))*' '}{url_src_arquivo}
     nomearq{(espaço-len("nomearq"))*' '}{name_arquivo}
-    tipodearq{(espaço-len("tipodearq"))*' '}{name_arquivo_tipo}""")
+    tipodearq{(espaço-len("tipodearq"))*' '}{name_arquivo_tipo}
+    host_port{(espaço-len("host_port"))*' '}{host_port}""")
     
+    url_request = f"GET {url_src_arquivo} HTTP/1.1/r/n HOST: {url_host}\r\n\r\n"
+    sock_img    = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+    print("criando conexão")
+    print(url_heard+'://'+url_host)
+    sock_img.connect((url_host, host_port))
+    sock_img.sendall(url_request.encode())
+    if printf:print("Baixando...")
+    buffer_size = 522
+    data_request= b""
+    while True:
+        data    = sock_img.recv((buffer_size))
+        if not data: break
+    sock_img.close()
+    
+    img_size = -1 
+    tmp         = data_ret.split('\r\n'.encode())
+    for line in tmp:
+        if 'Content-Length:'.encode() in line:
+            img_size = int(line.split()[1])
+            break
+    print(img_size,'tamnho')
+    delimiter   = "\r\n\r\n".encode()
+    position    = data_ret.find(delimiter)
+    headers     = data_ret[:position]
+    image       = data_ret[position+4:]
+    
+    file_output =   open("image.png","wb")
+    file_outout.write(image)
+    file_output.close()
+
 def q6():
     host = input('\nInforme o nome do HOST ou URL do site: ')
-    for port in (22,122,80,8080)
-        
+    for port in (22,122,80,8080):
+        print(port)
         server_conn = (host, port)
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         sock.settimeout(3)
