@@ -2,7 +2,7 @@
 #! bin/lib/python
 import requests
 from models.default import url1a3,urlq4,urlCq4,menu,request
-from models.exe import q1,q2,q3,q4,q5,q6
+from models.exe import q1,q2,q3,q4,q5,q6,q7
 import sys
 
 def main():
@@ -23,6 +23,8 @@ def main():
         q5()
     elif alternativa == 6:
         q6()
+    elif alternativa == 7:
+        q7()
     else:
         print("opção inválida")
       

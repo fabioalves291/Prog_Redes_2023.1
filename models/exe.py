@@ -173,3 +173,5 @@ def q6():
            print('\nConexão OK...')
            sock.close()
    
+def q7():
+    print(f"link: https://github.com/fabioalves291/server_udp")
