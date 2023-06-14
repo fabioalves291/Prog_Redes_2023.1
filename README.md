@@ -35,4 +35,9 @@
   ### exe.q6
    #### Questão 06 - Criar programa para verificar as portas de um servidor apartir de uma URL
    * Usando biblioteca SOCKET
+  ### exe.q6
+   ##### Questão 07 - Criar um servidor e um client com socket para transferencia de arquivo
+   * Criar o servidor e cliente.
+   * Criar a funcionalidade de enviar arquivos.
+   * Continuar  a funcionalidade de enviar arquivos maiores  e continuar.
   
