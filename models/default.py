@@ -12,6 +12,7 @@ def menu():
 4 - para Q4-Tratar dados e apresentar das eleiçoes
 5 - para Q5-
 6 - para Q6-
+7 - para Q7-Criar client e servidor usando socket
 """)
     print(50*"#")
     alternativa =   int(input(">> "))
