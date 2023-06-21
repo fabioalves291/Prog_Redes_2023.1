@@ -1,4 +1,4 @@
-#import requests
+import requests
 import socket,sys
 from models.default import *
 from models.udp_client  import initclient
