@@ -175,7 +175,6 @@ def q6():
            sock.close()
    
 def q7():
-    print(f"link: https://github.com/fabioalves291/server_udp")
     if input("1 - para abrir client\n2 - para abrir servidor(abra dois terminais/console)\n>> ")=="1":
         initclient()
     else:
