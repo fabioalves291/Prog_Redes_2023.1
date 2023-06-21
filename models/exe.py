@@ -1,7 +1,8 @@
-import requests
-import socket
+#import requests
+import socket,sys
 from models.default import *
-import socket, sys
+from models.udp_client  import initclient
+from models.udp_server  import initserver
 
 def q1(arg=True, data=0):
     # Questão 01: Listar os campi e a sua 
@@ -175,3 +176,8 @@ def q6():
    
 def q7():
     print(f"link: https://github.com/fabioalves291/server_udp")
+    if input("1 - para abrir client\n2 - para abrir servidor(abra dois terminais/console)\n> ")=="1":
+        initclient()
+    else:
+        initserver()
+
