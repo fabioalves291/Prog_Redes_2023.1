@@ -12,6 +12,7 @@ def menu():
 5 - para Q5-Criar aplicação para downloud de fotos apartir de uma URL
 6 - para Q6-Criar aplicação para verificar portas apartir de uma URL
 7 - para Q7-Criar client e servidor(UDP) usando socket
+8 - para Q8-Criar client e servidor(TCP) usando socket
 """)
     print(70*"#")
     alternativa =   int(input(">> "))
