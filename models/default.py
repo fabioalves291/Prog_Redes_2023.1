@@ -2,18 +2,18 @@
 
 def menu():
 
-    print(50*"#")
+    print(70*"#")
     print("Escolha a Questão")
     print("""
 1 - para Q1-Listar campus do IFRN
 2 - para Q2-Listar campus e alunos do IFRN
 3 - para Q3-Escrever o resultado da Q2
 4 - para Q4-Tratar dados e apresentar das eleiçoes
-5 - para Q5-
-6 - para Q6-
+5 - para Q5-Criar aplicação para downloud de fotos apartir de uma URL
+6 - para Q6-Criar aplicação para verificar portas apartir de uma URL
 7 - para Q7-Criar client e servidor(UDP) usando socket
 """)
-    print(50*"#")
+    print(70*"#")
     alternativa =   int(input(">> "))
     return alternativa
 
