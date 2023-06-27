@@ -11,24 +11,25 @@ def main():
         data = request(url1a3)
     #match so funcionar no python 3.10 para cima!
     #match alternativa:
-    if alternativa == 1:
-        q1(data=data)
-    elif alternativa == 2:
-        q2(data=data)
-    elif alternativa == 3:
-        q3(data)
-    elif alternativa == 4:
-        q4()
-    elif alternativa == 5:
-        q5()
-    elif alternativa == 6:
-        q6()
-    elif alternativa == 7:
-        q7()
-    elif alternativa == 8:
-        pass
-    else:
-        print("opção inválida")
-      
+    match alternativa:
+        case 1:
+            q1(data=data)
+        case  2:
+            q2(data=data)
+        case  3:
+            q3(data)
+        case 4:
+            q4()
+        case  5:
+            q5()
+        case  6:
+            q6()
+        case  7:
+            q7()
+        case  8:
+            pass
+        case _:
+            print("opção inválida")'
+        
 if __name__== "__main__":
     main()
