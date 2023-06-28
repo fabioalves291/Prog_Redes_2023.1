@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
-#! bin/lib/python
+#! bin/lib/python3
 import requests
-from models.default import url1a3,urlq4,urlCq4,menu,request
-from models.exe import q1,q2,q3,q4,q5,q6,q7
+
+from models.default import url1a3,urlq4,urlCq4,menu#,request
+from models.exe import q1,q2,q3,q4,q5,q6,q7,q8
 import sys
 
 def main():
@@ -27,9 +28,9 @@ def main():
         case  7:
             q7()
         case  8:
-            pass
+            q8()
         case _:
-            print("opção inválida")'
+            print("opção inválida")
         
 if __name__== "__main__":
     main()
